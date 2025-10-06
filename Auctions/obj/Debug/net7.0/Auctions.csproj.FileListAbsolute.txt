@@ -532,3 +532,4 @@ C:\Users\Acer\OneDrive\Desktop\Auctions\Auctions\obj\Debug\net7.0\refint\Auction
 C:\Users\Acer\OneDrive\Desktop\Auctions\Auctions\obj\Debug\net7.0\Auctions.pdb
 C:\Users\Acer\OneDrive\Desktop\Auctions\Auctions\obj\Debug\net7.0\Auctions.genruntimeconfig.cache
 C:\Users\Acer\OneDrive\Desktop\Auctions\Auctions\obj\Debug\net7.0\ref\Auctions.dll
+C:\Users\Acer\OneDrive\Desktop\Auctions\Auctions\obj\Debug\net7.0\Auctions.sourcelink.json

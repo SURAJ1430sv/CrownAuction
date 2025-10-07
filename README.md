@@ -106,6 +106,6 @@ It enables users to list, bid, and purchase products in real-time, with a robust
 
 ## 🪪 License
 
-This project is licensed under the [MIT License]
+This project is licensed under the Apache License 2.0
 That would make your GitHub project look even more professional.
 ```

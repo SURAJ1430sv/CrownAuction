@@ -53,12 +53,12 @@ It enables users to list, bid, and purchase products in real-time, with a robust
 ## ⚙ Project Setup
 
 1. *Clone the Repository*
-   bash
-   git clone https://github.com/<your-username>/CrownAuction.git
+   ```bash
+   git clone https://github.com/SURAJ1430sv/CrownAuction.git
    cd CrownAuction
-`
 
-2. *Configure Database Connection*
+
+3. *Configure Database Connection*
 
    * Open appsettings.json
    * Update your SQL Server connection string:
@@ -69,14 +69,14 @@ It enables users to list, bid, and purchase products in real-time, with a robust
      }
      
 
-3. *Apply Migrations*
+4. *Apply Migrations*
 
    bash
    Add-Migration "InitialMgr"
    Update-Database
    
 
-4. *Run the Application*
+5. *Run the Application*
 
    bash
    dotnet run

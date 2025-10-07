@@ -54,8 +54,8 @@ It enables users to list, bid, and purchase products in real-time, with a robust
 
 1. *Clone the Repository*
    bash
-   git clone https://github.com/<your-username>/AuctionPro.git
-   cd AuctionPro
+   git clone https://github.com/<your-username>/CrownAuction.git
+   cd CrownAuction
 `
 
 2. *Configure Database Connection*

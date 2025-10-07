@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\OneDrive\\Desktop\\Auction-Master\\Auctions\\Auctions.csproj": {}
+    "C:\\Users\\Acer\\OneDrive\\Desktop\\PrimeAuction\\Auctions\\Auctions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\OneDrive\\Desktop\\Auction-Master\\Auctions\\Auctions.csproj": {
+    "C:\\Users\\Acer\\OneDrive\\Desktop\\PrimeAuction\\Auctions\\Auctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\Auction-Master\\Auctions\\Auctions.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\PrimeAuction\\Auctions\\Auctions.csproj",
         "projectName": "Auctions",
-        "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Auction-Master\\Auctions\\Auctions.csproj",
+        "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\PrimeAuction\\Auctions\\Auctions.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Auction-Master\\Auctions\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\PrimeAuction\\Auctions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
